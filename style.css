@@ -1,0 +1,74 @@
+#abc{
+    height: 40px;
+    width: auto;
+    background:rgb(245, 128, 147);
+
+}
+#w1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: black;
+    
+}
+#hd1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: black;
+    
+}
+#img1{
+    border-radius: 50px;
+}
+
+#fut{
+    height: 350px;
+    background-image: linear-gradient(rgb(175, 160, 160),rgb(243, 238, 238));
+}
+#face{
+    font-size: 30px;
+}
+#clidress{
+    border: 2px solid black;
+    border-radius: 500px;
+}
+#clishoes{
+    border: 2px solid black;
+    border-radius: 500px;
+    
+}
+#clibags{
+    border: 2px solid black;
+    border-radius: 500px;
+}
+#clitools{
+    border: 2px solid black;
+    border-radius: 500px;
+}
+
+#cliglasses{
+    border: 2px solid black;
+    border-radius: 500px;
+}
+#cliabaya{
+    border: 2px solid black;
+    border-radius: 500px;
+}
+#clibaba{
+    border: 2px solid black;
+    border-radius: 500px;
+}
+#clibaby{
+    border: 2px solid black;
+    border-radius: 500px;
+}
+
+#dress{
+    display: none;
+}
+
+#shoes{
+    display: none;
+}
+#png{
+    border: 1px solid black;
+}
